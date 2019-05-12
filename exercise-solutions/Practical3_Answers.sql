@@ -57,7 +57,7 @@ HAVING
 */
 
 SELECT 
-	* 
+	COUNT(*)  
 FROM
 	Track
 		INNER JOIN
