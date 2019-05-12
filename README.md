@@ -10,6 +10,6 @@ We're using the Chinook database for the exercises, found here: https://github.c
 * License is included in this repository
 
 # How to use
-1. Run the Practical_Setup.sql script in a new MySQL query editor window.
+1. Run the `Practical_Setup.sql` script in a new MySQL query editor window.
 2. Follow along with the slides, completing the practical exercises (Found in "exercises/") as you go along
 3. The answers to all exercises are found in "exercise-solutions/"
