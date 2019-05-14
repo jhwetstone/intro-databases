@@ -1,8 +1,7 @@
 # intro-databases
 Friendly intro to databases, created for some friends in May 2019.  
 
-Follow along with the slides:
-https://docs.google.com/presentation/d/1vYxpQA8kkFCyaEu-5kPH8q2AdCnDLfjw7U4hwIrCFLA/edit?usp=sharing 
+Follow along with the [slides](https://docs.google.com/presentation/d/e/2PACX-1vSJKqnSoGy_ISNfKp7i3zSie0NNLu6weYPq-ZJ3g288YDJI9ZkEGQVNWlUMwx0cpC_b5Cn0NDj8u4_2/pub?start=false&loop=false&delayms=3000)
 
 # Dataset
 We're using the Chinook database for the exercises, found here: https://github.com/lerocha/chinook-database.  
