@@ -112,7 +112,7 @@ WHERE Composer = 'Ludwig van Beethoven';
 
 SELECT 
 	*, 
-	 UnitPrice / Milliseconds AS PricePerMillisecond
+	CAST(UnitPrice AS DECIMAL(30,15)) / Milliseconds AS PricePerMillisecond
 FROM Track
 ORDER BY PricePerMillisecond
 LIMIT 1;
